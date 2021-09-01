@@ -10,8 +10,7 @@
   * Java
   * Servlets
   * Google Cloud SDK
-  * HTML
-  * JSP
+  * HTML/JSP
   * CSS
   
 ## Description
